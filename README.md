@@ -6,4 +6,4 @@
 <h4>Lê Vĩnh Hưng</h4>
 <h4>Nguyễn Vũ Tùng</h4>
 <h3>Giảng viên hướng dẫn: Nguyễn Văn Thiệu</h3>
-<p>Link to data set: <a href = " https://covid19.who.int/WHO-COVID-19-global-data.csv">here</a></p>
+<p>Link to data set: https://covid19.who.int/WHO-COVID-19-global-data.csv</p>
